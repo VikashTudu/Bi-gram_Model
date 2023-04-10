@@ -1,4 +1,4 @@
-# Bigram Model
+# Bi-gram Model
 This is based on the Andrej Karpathy - Neural Networks: Zero to Hero course
 
 -----------
